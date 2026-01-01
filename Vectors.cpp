@@ -1,5 +1,5 @@
-#include<iostream>
-#include<vector>
+#include<bits/stdc++.h>
+
 using namespace std;
 void print(vector <int> &m){
     m[0]=9;
