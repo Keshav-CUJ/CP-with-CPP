@@ -1,6 +1,6 @@
 # CP-with-CPP
-I upload dsa solutions to this repo.
-It has two branches main and oops
-This main brach consists DSA problems and codes.
 
-Input.txt and Output.txt are required for input and output of program.
+<li> I upload dsa solutions to this repo. </li>
+<li> It has two branches main and oops. </li>
+<li> This main brach consists DSA problems and codes. </li>
+
